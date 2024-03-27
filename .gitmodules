@@ -1,0 +1,3 @@
+[submodule ".terraform copymodulesacm"]
+	path = .terraform copymodulesacm
+	url = https://github.com/ibukun-oyedeji/Infrastrucuture.git
